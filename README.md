@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on flexice-bot (Discord)
-- 🌱 I’m currently learning TypeScript.
+- 🔭 I’m currently working on NuxtJS Projects.
+- 🌱 I’m currently learning NuxtJS.
 - 💬 Ask me about i'm love anime
 - ⚡ Fun fact: you gay
 
